@@ -1,0 +1,17 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # Runs every hour
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCgXBdPurkeMx8LbQVdcjV3g"
