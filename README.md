@@ -8,6 +8,14 @@
 
 </div>
 
+## 👀 Profile Visitors  
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Jolectro/count.svg)
+
+</div>
+
 ---
 
 ## 👋 About Me
@@ -47,5 +55,12 @@
 <div align="center">
 
 ✨ *“Teaching, coding, and music — different instruments, one rhythm of learning and sharing.”* ✨  
+
+</div>
+## 🐍 Contribution Snake  
+
+<div align="center">
+
+![Snake animation](https://github.com/Jolectro/Jolectro/blob/main/dist/snake.svg)
 
 </div>
