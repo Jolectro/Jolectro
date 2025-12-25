@@ -19,7 +19,6 @@ My foundation in **scientific analysis and coding** allows me to approach proble
 ---
 
 ## Skills & Tools
-
 <p align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-005C8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -51,6 +50,3 @@ My foundation in **scientific analysis and coding** allows me to approach proble
 *“Data analysis, STEM problem-solving, and web development — different tools, one purpose: clarity and impact.”*
 
 </div>
-
-
-
