@@ -1,66 +1,45 @@
 <div align="center">
-  
-  <!-- Banner -->
   <img src="assets/banner.jpg" alt="Welcome Banner" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Jolectro's%20Hub!&fontSize=40&animation=fadeIn&fontAlignY=40" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Educator+%7C+Programmer+%7C+Musician;Learning+Machine+Learning+daily;Building+React+Native+%26+Desktop+Apps;Mixing+music+and+code+with+a+smile" alt="Typing SVG" />
-
-</div>
-
-## 👀 Profile Visitors  
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/Jolectro/count.svg)
-
+  <h1>Welcome to Jolectro's Data Analytics Hub</h1>
+  <p>Turning data into insights | Python | SQL | Excel | Visualization | STEM & Web Development</p>
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 🌱 Currently learning: **Machine Learning, React Native, Desktop Apps**  
-- 💡 Ask me about: **Python, Chemistry, Biology, Music, Data Science**  
-- 🎶 Fun fact: *When my code frustrates me repeatedly — I sit back relax and write songs.*  
-- 🎯 Goal: To **share knowledge, keep growing, and inspire in small but meaningful ways.**  
+I am a **Data Analyst and Educator** with a strong **STEM and web development background**, passionate about turning raw data into actionable insights.  
+My foundation in **scientific analysis and coding** allows me to approach problems methodically, automate workflows, and create interactive dashboards.  
+
+- Currently learning: **Machine Learning, Advanced SQL, Data Visualization**  
+- Expertise in: **Python, SQL, Excel, Pandas, NumPy, Tableau, Jupyter Notebooks, React, JavaScript, HTML/CSS**  
+- STEM domain knowledge: **Chemistry, Biology, Physics**  
+- Goal: To **leverage my diverse background to solve complex problems and communicate insights clearly**
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,git,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,pandas,numpy,jupyter,react,js,html,css" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jolectro777@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jolectro)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgXBdPurkeMx8LbQVdcjV3g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojojosiah)
 
 </div>
 
 ---
 
- ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
 
-✨ *“Teaching, coding, and music — different instruments, one rhythm of learning and sharing.”* ✨  
+*“Data analysis, STEM problem-solving, and web development — different tools, one purpose: clarity and impact.”*
 
 </div>
- 🐍 Contribution Snake  
 
-<div align="center">
 
-![Snake animation](https://github.com/Jolectro/Jolectro/blob/main/dist/snake.svg)
 
-</div>
