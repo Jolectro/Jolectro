@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.jpg" alt="Welcome Banner" width="100%" />
   <h1>The Jolectro Workspace</h1>
-  <p>Data Analysis | Web Development | Narrative Engineering</p>
+  <p>Machine Learning | Software Development | Narrative Engineering</p>
 </div>
 
 ---
